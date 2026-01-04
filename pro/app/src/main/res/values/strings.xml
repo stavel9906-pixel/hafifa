@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Question Game</string>
+    <string name="score">Score: %d</string>
+    <string name="score_numbers">%d/5</string>
+    <string name="question">Question</string>
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="option3">Option 3</string>
+    <string name="option4">Option 4</string>
+    <string name="next">Next</string>
+    <string name="about_text">Android Trivia will help remind you of important concepts you have learned and will learn in Android development.\n\nConsider modifying the questions and graphics to make this game your own!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">about</string>
+    <string name="play">Play</string>
+    <string name="start_playing_now">Start Playing Now!!</string>
+    <string name="title_android_trivia_question">Android Trivia (%1$d/%2$d)</string>
+    <string name="your_score">Your Score:</string>
+    <string name="play_again">Play Again</string>
+    <string name="header_text">All Time Scores</string>
+    <string name="title"><![CDATA[![CDATA[<h3>HERE IS YOUR SCORES DATA</h3>]]]]></string>
+    <string name="date"><![CDATA[<b>Date:</b>]]></string>
+    <string name="scores"><![CDATA[<b>Score:</b>]]></string>
+    <string name="history">history</string>
+</resources>

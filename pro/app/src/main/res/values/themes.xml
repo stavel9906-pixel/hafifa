@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pro" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSurface">#E6F44336</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="radioButtonStyle">@style/Widget.App.RadioButton</item>
+        <item name="chipStyle">@style/Widget.App.Chip</item>
+        <item name="toolbarStyle">@style/Widget.App.Toolbar</item>
+    </style>
+
+    <style name="Widget.App.RadioButton" parent="Widget.MaterialComponents.CompoundButton.RadioButton">
+        <item name="buttonTint">#FF9800</item>
+    </style>
+
+    <style name="Widget.App.Chip" parent="Widget.Material3.Chip.Assist">
+        <item name="android:textColor">@color/black</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.Material3.Corner.Full</item>
+    </style>
+
+    <style name="Widget.App.Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="android:background">#fffa99</item>
+        <item name="titleTextColor">@color/black</item>
+        <item name="navigationIconTint">@color/black</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+</resources>

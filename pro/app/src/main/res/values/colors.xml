@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="yellow_200">#FFF59D</color>-->
+<!--    <color name="yellow_500">#FFEB3B</color>-->
+<!--    <color name="yellow_light">#FEFDEF</color>-->
+
+    <color name="orange_200">#FFCC80</color>
+    <color name="orange_500">#FF9800</color> <color name="orange_700">#F57C00</color>
+
+    <color name="red_500">#F44336</color>
+    <color name="red_700">#D32F2F</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#595858</color>
+    <color name="light_gray">#8d8e8c</color>
+    <color name="green">#5bff07</color>
+</resources>

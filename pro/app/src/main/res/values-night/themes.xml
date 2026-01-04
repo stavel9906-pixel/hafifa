@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pro" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorControlActivated">#FF9800</item>
+    </style>
+
+<!--    <style name="OrangeRadioButton" parent="Widget.MaterialComponents.CompoundButton.RadioButton">-->
+<!--        <item name="buttonTint">#FF9800</item>-->
+<!--        <item name="android:textSize">20sp</item>-->
+<!--        <item name="android:textColor">?attr/colorOnSurface</item>-->
+<!--    </style>-->
+</resources>
